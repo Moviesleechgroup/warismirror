@@ -1,6 +1,6 @@
 [![Slam](https://i.imgur.com/NI8gakd.jpg)](https://telegram.dog/IamWarisAliOFFICIAL)
 
-# Deepak Clouds Mirror
+# Waris Ali Mirror
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
